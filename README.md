@@ -1,6 +1,12 @@
 # 💫 About Me:
 Sou um estudante em desenvolvimento na área de tecnologia, com grande interesse em aprender e evoluir constantemente. Possuo conhecimentos iniciais em programação, incluindo Python, C++, JavaScript e HTML, além de experiência com aplicações de IA web por meio de APIs, como Gemini AI. Também tenho familiaridade com sistemas operacionais como Windows e Linux.
 
+Estou em uma fase de aprendizado e desenvolvimento, buscando ampliar meus conhecimentos e acompanhar a evolução constante da área de tecnologia. Tenho facilidade para aprender novas ferramentas e me adaptar a diferentes tecnologias, sempre com curiosidade e dedicação para adquirir novas habilidades.
+
+Além do aspecto técnico, valorizo muito habilidades como comunicação clara, trabalho em equipe, proatividade e colaboração. Procuro sempre manter uma postura positiva diante de desafios, buscando soluções criativas e eficientes.
+
+Sou uma pessoa organizada e responsável, comprometida em realizar minhas tarefas com qualidade e dentro dos prazos estabelecidos. Meu objetivo é continuar evoluindo profissionalmente, contribuindo com minha dedicação, vontade de aprender e espírito colaborativo em projetos e equipes na área de tecnologia.
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/guilherme-verrillo-peres-046449384) 
