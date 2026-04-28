@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Sou um estudante em desenvolvimento na área de tecnologia, com grande interesse em aprender e evoluir constantemente. Possuo conhecimentos iniciais em programação, incluindo Python, C++, JavaScript e HTML, além de experiência com aplicações de IA web por meio de APIs, como Gemini AI. Também tenho familiaridade com sistemas operacionais como Windows e Linux.
 
 Estou em uma fase de aprendizado e desenvolvimento, buscando ampliar meus conhecimentos e acompanhar a evolução constante da área de tecnologia. Tenho facilidade para aprender novas ferramentas e me adaptar a diferentes tecnologias, sempre com curiosidade e dedicação para adquirir novas habilidades.
